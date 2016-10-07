@@ -1,3 +1,9 @@
+# 2.1.2
+
+
+* Run local_actions only once
+
+Alvaro Aleman (1):
 # 2.1.1
 Anja Siek (1):
 
