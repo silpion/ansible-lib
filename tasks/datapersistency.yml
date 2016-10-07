@@ -8,6 +8,7 @@
   become: "{{ lib_local_action_become_enable }}"
   become_user: "{{ lib_local_action_become_user }}"
   become_method: "{{ lib_local_action_become_method }}"
+  run_once: true
   local_action: file
   args:
     state: directory
